@@ -1,0 +1,8 @@
+models/
+data/
+best_model_with_attention.pth
+best_model_with_attention2.pth
+__pycache__/
+myenv/
+new/__pycache__/
+new/data2/
